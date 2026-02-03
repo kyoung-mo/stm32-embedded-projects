@@ -1,0 +1,24 @@
+# Build files
+Debug/
+Release/
+build/
+cmake-build-*/
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE files
+.vscode/
+.settings/
+*.launch
+
+# Compiled
+*.o
+*.d
+*.su
+*.cyclo
+
+# System
+.DS_Store
